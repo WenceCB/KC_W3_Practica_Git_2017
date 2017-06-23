@@ -52,7 +52,7 @@ en 	el working copy)
 25.- Dibuja el diagrama
 >¿Qué comandos utilizaste en el paso 25?
 >> 		$ git log --graph --abbrev-commit --decorate --all
->>	![captura](raw.github.com/WenceCB/KC_W3_Practica_Git_2017/blob/master/graph.tiff)
+>>	![captura](https://user-images.githubusercontent.com/13310866/27479624-ef88b69e-5814-11e7-98b2-188daca9efcf.jpg)
 
 
 26.- Hacer un merge “no fast-forward” de “title” en “master” (master absorbe a title) 
